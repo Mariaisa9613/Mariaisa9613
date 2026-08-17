@@ -1,4 +1,4 @@
-# Hey, I'm Maria Isabel 👋
+# ¡Hola, soy Maria Isabel! 👋
 
 Técnico administrativo y contable con experiencia en gestión de subvenciones, facturación y expedientes — Grupo BC, HEYMO Ingeniería, Joyería Suárez, Acromur.
 
@@ -35,4 +35,3 @@ Doy soporte integral a empresas en áreas clave como contabilidad, facturación,
 ### Links
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaisabel-martinez-lopez-126528127)
-[![Gmail](https://img.shields.io/badge/-mariaisa9613%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mariaisa9613@gmail.com)
